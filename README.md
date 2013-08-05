@@ -1,0 +1,4 @@
+testGit
+=======
+
+A sample directory
